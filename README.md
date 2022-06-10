@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benelot&hide_border=true&theme=dark&layout=compact&langs_count=4&bg_color=0D1117) ![Benelot's github stats](https://github-readme-stats.vercel.app/api?username=benelot&hide_border=true&theme=dark&bg_color=0D1117&hide_title=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benelot&hide_border=true&theme=dark&layout=compact&langs_count=6&bg_color=0D1117) ![Benelot's github stats](https://github-readme-stats.vercel.app/api?username=benelot&hide_border=true&theme=dark&bg_color=0D1117&hide_title=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true)
 
 <!--
 **benelot/benelot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
